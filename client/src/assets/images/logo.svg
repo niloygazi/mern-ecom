@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<g id="BACKGROUND">
+	<rect style="fill:#221038;" width="500" height="500"/>
+</g>
+<g id="OBJECTS">
+	<g>
+		<g>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="227.4897" y1="185.5992" x2="211.9143" y2="146.6608" gradientTransform="matrix(-1 0 0 1 500 0)">
+				<stop  offset="0" style="stop-color:#073E98"/>
+				<stop  offset="0.2452" style="stop-color:#0E56A2"/>
+				<stop  offset="0.7602" style="stop-color:#2193BB"/>
+				<stop  offset="1" style="stop-color:#2AB2C8"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_1_);" points="265.5,171.7 296.38,157.35 296.38,146.36 			"/>
+		</g>
+		<g>
+			
+				<linearGradient id="SVGID_00000004544588757565644120000015151527606483254426_" gradientUnits="userSpaceOnUse" x1="227.4897" y1="185.5992" x2="211.9143" y2="146.6608">
+				<stop  offset="0" style="stop-color:#FF992E"/>
+				<stop  offset="0.2171" style="stop-color:#F88138"/>
+				<stop  offset="0.6728" style="stop-color:#E74453"/>
+				<stop  offset="1" style="stop-color:#DA1467"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000004544588757565644120000015151527606483254426_);" points="234.5,171.7 203.62,157.35 
+				203.62,146.36 			"/>
+		</g>
+		<g>
+			
+				<linearGradient id="SVGID_00000043420764425173901270000013519777153422138240_" gradientUnits="userSpaceOnUse" x1="273.3787" y1="263.7941" x2="297.6286" y2="148.0443">
+				<stop  offset="0" style="stop-color:#FF992E"/>
+				<stop  offset="0.2171" style="stop-color:#F88138"/>
+				<stop  offset="0.6728" style="stop-color:#E74453"/>
+				<stop  offset="1" style="stop-color:#DA1467"/>
+			</linearGradient>
+			<path style="fill:url(#SVGID_00000043420764425173901270000013519777153422138240_);" d="M308.42,157.27v86.71l-30.33,14.09
+				c-0.74-6.52-3.69-12.36-8.09-16.76c-5.12-5.12-12.19-8.28-20-8.28v-5.09c6.72,0,12.16-5.45,12.16-12.17
+				c0-1.18-0.17-2.32-0.49-3.4c11.78-1.92,22.32-7.54,30.39-15.62C302.17,186.65,308.42,172.69,308.42,157.27z"/>
+			
+				<linearGradient id="SVGID_00000115473035892056324580000009937376659449564059_" gradientUnits="userSpaceOnUse" x1="279.21" y1="254.86" x2="279.21" y2="130.1092">
+				<stop  offset="0" style="stop-color:#FF992E"/>
+				<stop  offset="0.2171" style="stop-color:#F88138"/>
+				<stop  offset="0.6728" style="stop-color:#E74453"/>
+				<stop  offset="1" style="stop-color:#DA1467"/>
+			</linearGradient>
+			<path style="fill:url(#SVGID_00000115473035892056324580000009937376659449564059_);" d="M308.42,157.27
+				c0,15.42-6.25,29.38-16.36,39.48c-8.07,8.08-18.61,13.7-30.39,15.62c-1.46-5.06-6.13-8.76-11.67-8.76v-19.19L308.42,157.27z"/>
+			
+				<linearGradient id="SVGID_00000079476526938340109210000005426201732028111293_" gradientUnits="userSpaceOnUse" x1="268.7206" y1="120.6924" x2="284.7206" y2="197.1924">
+				<stop  offset="0" style="stop-color:#FF992E"/>
+				<stop  offset="0.2171" style="stop-color:#F88138;stop-opacity:0.7829"/>
+				<stop  offset="0.6728" style="stop-color:#E74453;stop-opacity:0.3272"/>
+				<stop  offset="1" style="stop-color:#DA1467;stop-opacity:0"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000079476526938340109210000005426201732028111293_);" points="250,184.42 305.167,163.11 
+				308.42,243.98 308.42,157.27 			"/>
+		</g>
+		<g>
+			
+				<linearGradient id="SVGID_00000157272758035142181460000011994378929964241595_" gradientUnits="userSpaceOnUse" x1="273.3787" y1="263.7941" x2="297.6286" y2="148.0443" gradientTransform="matrix(-1 0 0 1 500 0)">
+				<stop  offset="0" style="stop-color:#073E98"/>
+				<stop  offset="0.2452" style="stop-color:#0E56A2"/>
+				<stop  offset="0.7602" style="stop-color:#2193BB"/>
+				<stop  offset="1" style="stop-color:#2AB2C8"/>
+			</linearGradient>
+			<path style="fill:url(#SVGID_00000157272758035142181460000011994378929964241595_);" d="M191.58,157.27v86.71l30.33,14.09
+				c0.74-6.52,3.69-12.36,8.09-16.76c5.12-5.12,12.19-8.28,20-8.28v-5.09c-6.72,0-12.16-5.45-12.16-12.17c0-1.18,0.17-2.32,0.49-3.4
+				c-11.78-1.92-22.32-7.54-30.39-15.62C197.83,186.65,191.58,172.69,191.58,157.27z"/>
+			
+				<linearGradient id="SVGID_00000065779916831972800550000014955400101954366859_" gradientUnits="userSpaceOnUse" x1="279.21" y1="254.86" x2="279.21" y2="130.1092" gradientTransform="matrix(-1 0 0 1 500 0)">
+				<stop  offset="0" style="stop-color:#073E98"/>
+				<stop  offset="0.2452" style="stop-color:#0E56A2"/>
+				<stop  offset="0.7602" style="stop-color:#2193BB"/>
+				<stop  offset="1" style="stop-color:#2AB2C8"/>
+			</linearGradient>
+			<path style="fill:url(#SVGID_00000065779916831972800550000014955400101954366859_);" d="M191.58,157.27
+				c0,15.42,6.25,29.38,16.36,39.48c8.07,8.08,18.61,13.7,30.39,15.62c1.46-5.06,6.13-8.76,11.67-8.76v-19.19L191.58,157.27z"/>
+			
+				<linearGradient id="SVGID_00000152980536065259026590000009467097330131401407_" gradientUnits="userSpaceOnUse" x1="208.2404" y1="142.5357" x2="227.2405" y2="251.0357">
+				<stop  offset="0" style="stop-color:#073E98;stop-opacity:0"/>
+				<stop  offset="0.2452" style="stop-color:#0E56A2;stop-opacity:0.2452"/>
+				<stop  offset="0.7602" style="stop-color:#2193BB;stop-opacity:0.7602"/>
+				<stop  offset="1" style="stop-color:#2AB2C8"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000152980536065259026590000009467097330131401407_);" points="250,184.42 194.833,163.11 
+				191.58,243.98 191.58,157.27 			"/>
+		</g>
+	</g>
+</g>
+<g id="TEXTS">
+	<g>
+		<text transform="matrix(1 0 0 1 147.9573 324.6351)" style="fill:#FFFFFF; font-family:'FiraSans-Bold'; font-size:48.4422px;">Bookstore</text>
+		
+			<text transform="matrix(1 0 0 1 161.2512 348.8558)" style="fill:#FFFFFF; font-family:'FiraSans-Regular'; font-size:14.5597px; letter-spacing:4;">Tagline goes here</text>
+	</g>
+</g>
+</svg>
